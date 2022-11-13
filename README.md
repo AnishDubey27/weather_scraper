@@ -1,5 +1,5 @@
 # Weather Scraper
-#A weather scraping tool built using python
+# A weather scraping tool built using python
 Language used: Python3
 Libraries used : html session
 
